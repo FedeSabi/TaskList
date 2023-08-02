@@ -10,3 +10,6 @@ Características clave:
     Estado global: Se utiliza Context API para gestionar el estado global de la aplicación, lo que permite una gestión eficiente de los datos entre diferentes componentes.
 
     Diseño receptivo: La interfaz de usuario de TaskList está diseñada con Tailwind CSS, lo que garantiza una experiencia visualmente agradable en dispositivos de diferentes tamaños.
+
+ Link page:
+ https://fedesabi.github.io/TaskList/
