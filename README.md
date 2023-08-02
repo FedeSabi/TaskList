@@ -1,8 +1,12 @@
-# React + Vite
+Descripción de TaskList en React Vite (Context) y Tailwind CSS
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Introducción:
+TaskList es una aplicación de lista de tareas desarrollada con React Vite, que utiliza el patrón de estado global proporcionado por Context API y se estiliza con Tailwind CSS. La aplicación permite a los usuarios crear, editar y eliminar tareas para mantener un registro organizado de sus actividades.
 
-Currently, two official plugins are available:
+Características clave:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+    Gestión de tareas: Los usuarios pueden agregar nuevas tareas a la lista, editar tareas existentes y marcarlas como completadas.
+
+    Estado global: Se utiliza Context API para gestionar el estado global de la aplicación, lo que permite una gestión eficiente de los datos entre diferentes componentes.
+
+    Diseño receptivo: La interfaz de usuario de TaskList está diseñada con Tailwind CSS, lo que garantiza una experiencia visualmente agradable en dispositivos de diferentes tamaños.
